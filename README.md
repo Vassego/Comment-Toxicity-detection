@@ -1,7 +1,7 @@
 # Comment-Toxicity-detection
 A deep learning-based project that detects toxic comments from user-generated content. This project leverages advanced Natural Language Processing (NLP) techniques and a bidirectional LSTM (Long Short-Term Memory) model to classify comments as toxic or non-toxic. The model achieves high accuracy, precision, and recall, demonstrating its robustness in identifying harmful language while minimizing false positives. The project also includes a user-friendly frontend built with Streamlit for real-time predictions.
 
-##Explore the Live Project at-https://vassego-comment-toxicity-detection-front-6lj2dm.streamlit.app/
+## Explore the Live Project at-https://vassego-comment-toxicity-detection-front-6lj2dm.streamlit.app/
 
 ## Installation
 
